@@ -1,0 +1,9 @@
+{
+	"BuildId": "5660361",
+	"Modules": 
+	{
+		"NVSceneCapturer": "UE4Editor-NVSceneCapturer.dll",
+		"NVSceneCapturerEditor": "UE4Editor-NVSceneCapturerEditor.dll",
+		"NVSceneCapturerGame": "UE4Editor-NVSceneCapturerGame.dll"
+	}
+}
